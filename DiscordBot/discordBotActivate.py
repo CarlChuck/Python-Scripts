@@ -1,4 +1,3 @@
-# https://github.com/Rapptz/discord.py/blob/async/examples/reply.py
 import discord
 
 TOKEN = 'XXXXX'
